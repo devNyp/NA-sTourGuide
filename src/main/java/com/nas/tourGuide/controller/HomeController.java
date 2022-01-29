@@ -1,4 +1,4 @@
-package com.nas.controller;
+package com.nas.tourGuide.controller;
 
 import java.text.DateFormat;
 import java.util.Date;

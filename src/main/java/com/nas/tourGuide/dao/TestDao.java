@@ -1,4 +1,4 @@
-package com.nas.dao;
+package com.nas.tourGuide.dao;
 
 import java.util.List;
 
