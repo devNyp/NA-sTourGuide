@@ -10,5 +10,13 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<p>
+
+<c:forEach items="${list }" var="list">
+${list.contentid }<br/>
+</c:forEach>
+</p>
+
+
 </body>
 </html>
