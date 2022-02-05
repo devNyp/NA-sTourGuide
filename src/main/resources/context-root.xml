@@ -35,5 +35,6 @@
 	<context:component-scan base-package="com.nas"></context:component-scan>	
 	<bean class="apiTest.test.GetApi" id="getApi"></bean>
 	
-	
+	<mybatis-spring:scan base-package="com.nas.dao"/>
+	<context:component-scan base-package="com.nas"></context:component-scan>
 </beans>
